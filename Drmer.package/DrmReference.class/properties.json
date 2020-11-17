@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "DrmAssumption",
+	"instvars" : [
+		"label",
+		"citation"
+	],
+	"name" : "DrmReference",
 	"type" : "normal"
 }

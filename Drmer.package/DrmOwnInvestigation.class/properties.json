@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DrmAssumption",
+	"name" : "DrmOwnInvestigation",
 	"type" : "normal"
 }

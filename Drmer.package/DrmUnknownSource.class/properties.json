@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DrmAssumption",
+	"name" : "DrmUnknownSource",
 	"type" : "normal"
 }

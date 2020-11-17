@@ -1,0 +1,1 @@
+WAAdmin register: Example asApplicationAt: 'drmer'

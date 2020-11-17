@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Drmer-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attribute",
+		"element",
+		"isExternal"
+	],
+	"name" : "DrmFactor",
+	"type" : "normal"
+}

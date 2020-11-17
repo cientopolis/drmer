@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Drmer-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"origin",
+		"destination",
+		"levelAtOrigin",
+		"levelAtDestination",
+		"sources",
+		"originCausesDestination"
+	],
+	"name" : "DrmLink",
+	"type" : "normal"
+}

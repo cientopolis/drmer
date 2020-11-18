@@ -11,7 +11,8 @@
 		"levelAtOrigin",
 		"levelAtDestination",
 		"sources",
-		"originCausesDestination"
+		"originCausesDestination",
+		"weight"
 	],
 	"name" : "DrmLink",
 	"type" : "normal"

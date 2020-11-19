@@ -1,4 +1,4 @@
 baselines
 baseline: spec
 	<baseline>
-	spec package: 'Drmer'
+	spec package: 'Drmer' with: [ spec postLoadActions ]

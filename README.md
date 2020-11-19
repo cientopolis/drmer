@@ -4,7 +4,7 @@
 
 Metacello new
 	baseline: 'Drmer';
-	repository: 'github://cientopolis/drmer';
+	repository: 'github://cientopolis/drmer:main';
 	onConflictUseLoaded;
 	load.
   

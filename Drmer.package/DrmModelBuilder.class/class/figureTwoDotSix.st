@@ -41,4 +41,4 @@ figureTwoDotSix
 	link
 		levelAtDestination: 1;
 		addSource: (builder assumption: '').
-	builder model
+	^ builder model

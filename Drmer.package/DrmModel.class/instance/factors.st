@@ -1,3 +1,3 @@
-initialization
+factors
 factors
 	^ factors 

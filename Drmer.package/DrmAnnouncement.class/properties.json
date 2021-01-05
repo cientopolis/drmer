@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "DrmObject",
-	"category" : "Drmer-model",
+	"super" : "Announcement",
+	"category" : "Drmer-annoucements",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"factors",
-		"links"
+		"subject"
 	],
-	"name" : "DrmModel",
+	"name" : "DrmAnnouncement",
 	"type" : "normal"
 }

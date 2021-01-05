@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "DrmObject",
 	"category" : "Drmer-model",
 	"classinstvars" : [ ],
 	"pools" : [ ],

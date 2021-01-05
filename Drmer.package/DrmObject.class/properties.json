@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "DrmObject",
+	"super" : "Object",
 	"category" : "Drmer-model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"factors",
-		"links"
+		"announcer"
 	],
-	"name" : "DrmModel",
+	"name" : "DrmObject",
 	"type" : "normal"
 }

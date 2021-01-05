@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DrmAnnouncement",
+	"category" : "Drmer-annoucements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DrmLinkChangedAnnouncement",
+	"type" : "normal"
+}

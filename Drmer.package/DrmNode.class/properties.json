@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "DrmNode",
+	"super" : "DrmObject",
 	"category" : "Drmer-model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"description"
+		"propertiesDictionary"
 	],
-	"name" : "DrmSupport",
+	"name" : "DrmNode",
 	"type" : "normal"
 }

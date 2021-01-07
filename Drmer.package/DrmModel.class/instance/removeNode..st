@@ -1,5 +1,5 @@
 factors
-removeFactor: aFactor
+removeNode: aFactor
 	(links
 		select: [ :link | link origin == aFactor or: [ link destination == aFactor ] ])
 		do: [ :link | self removeLink: link ].

@@ -1,5 +1,4 @@
 initialization
-onAttribute: aStringDescribingAnAttribute of: aStringDescribingAnElement 
+onAttribute: aStringDescribingAnAttribute of: aStringDescribingAnElement
 	attribute := aStringDescribingAnAttribute.
-	element := aStringDescribingAnElement.
-	isExternal := false.
+	element := aStringDescribingAnElement

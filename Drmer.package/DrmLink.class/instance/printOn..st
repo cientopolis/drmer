@@ -1,9 +1,9 @@
 printing
 printOn: aStream
-	self printLevel: levelAtOrigin on: aStream.
+	aStream nextPutAll: '(' , levelAtOrigin , ')'.
 	origin printOn: aStream.
 	aStream nextPutAll: ' --'.
 	sources do: [ :each | each printOn: aStream ].
-	aStream nextPutAll: '--> '.	
+	aStream nextPutAll: '--> '.
 	destination printOn: aStream.
-	self printLevel: levelAtDestination on: aStream
+	aStream nextPutAll: '(' , levelAtDestination , ')'

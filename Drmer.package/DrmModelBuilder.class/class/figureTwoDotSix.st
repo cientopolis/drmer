@@ -29,7 +29,7 @@ figureTwoDotSix
 		addSource:
 			(builder
 				referenceLabeled: '5'
-				citation: 'Gomez A. El libro de los sueños ('+'996).').
+				citation: 'Gomez A. El libro de los sueños (1996).').
 	qualityOfProblemDefinition := builder
 		factorOnAttribute: 'quality'
 		of: 'problem definition'.

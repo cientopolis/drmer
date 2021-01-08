@@ -7,7 +7,11 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"factors",
-		"links"
+		"links",
+		"author",
+		"title",
+		"notes",
+		"sources"
 	],
 	"name" : "DrmModel",
 	"type" : "normal"

@@ -1,3 +1,6 @@
 api
 assumption: notes
-	^ DrmAssumption notes: notes
+	| assumption |
+	assumption := DrmAssumption notes: notes.
+	model addSource: assumption.
+	^ assumption

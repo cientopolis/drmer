@@ -1,3 +1,4 @@
 accessing
 citation: anObject
-	citation := anObject
+	citation := anObject.
+	self announcer announce: (DrmSourceChangedAnnouncement subject: self)

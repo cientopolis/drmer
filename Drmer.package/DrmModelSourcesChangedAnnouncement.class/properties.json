@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DrmModelChangedAnnouncement",
+	"category" : "Drmer-annoucements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DrmModelSourcesChangedAnnouncement",
+	"type" : "normal"
+}

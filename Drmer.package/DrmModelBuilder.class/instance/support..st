@@ -1,3 +1,3 @@
 api
 support: description
-	^ model addNode: (DrmSupport description: description)
+	^ model addNode: (DrmSupport title: description)

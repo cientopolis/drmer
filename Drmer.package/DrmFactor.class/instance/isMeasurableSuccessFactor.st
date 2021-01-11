@@ -1,0 +1,3 @@
+role
+isMeasurableSuccessFactor 
+	^ role = #measurableSuccessFactor.

@@ -1,0 +1,3 @@
+role
+isKeyFactor
+	^ role = #keyFactor

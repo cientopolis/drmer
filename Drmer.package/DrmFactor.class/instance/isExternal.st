@@ -1,3 +1,3 @@
-accessing
+role
 isExternal
-	^ isExternal
+	^ role = #external

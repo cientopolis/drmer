@@ -1,0 +1,3 @@
+role
+isNormal
+	^ role isNil

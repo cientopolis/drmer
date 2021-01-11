@@ -1,0 +1,3 @@
+accessing
+beImpactModel
+	isImpactModel := true. 

@@ -1,0 +1,3 @@
+accessing
+isReferenceModel
+	^ isImpactModel not

@@ -5,4 +5,5 @@ initialize
 	author := ''.
 	title := 'Untitled model'.
 	notes := ''.
+	isImpactModel := false.
 	sources := OrderedCollection new

@@ -8,7 +8,7 @@
 	"instvars" : [
 		"attribute",
 		"element",
-		"isExternal"
+		"role"
 	],
 	"name" : "DrmFactor",
 	"type" : "normal"

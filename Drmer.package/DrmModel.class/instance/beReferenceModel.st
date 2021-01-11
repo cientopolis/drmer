@@ -1,0 +1,3 @@
+accessing
+beReferenceModel
+	isImpactModel := false. 

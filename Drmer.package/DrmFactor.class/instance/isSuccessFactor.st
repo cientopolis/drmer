@@ -1,0 +1,3 @@
+role
+isSuccessFactor 
+	^ role = #successFactor.
